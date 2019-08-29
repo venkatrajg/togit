@@ -6,6 +6,7 @@ from email.mime.text import MIMEText
 uname = raw_input("Enter your username: ")
 pswd = getpass.getpass(prompt="Enter your Password: ")
 result = []
+test
 
 def sendemail(mes):
     fromaddr = "TCAMStatus@abc.com"
