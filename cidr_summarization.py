@@ -1,4 +1,3 @@
-import tabulate
 import netaddr
 from netaddr import IPNetwork
 iplist =[
